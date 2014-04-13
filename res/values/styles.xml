@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DataWarehouseTheme" parent="android:Theme">
+        <item name="android:textViewStyle">@style/DWTextViewStyle</item>
+    </style>
+    <style name="DWTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:paddingLeft">3dp</item>
+        <item name="android:paddingRight">3dp</item>
+        <item name="android:paddingTop">1dp</item>
+        <item name="android:paddingBottom">1dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

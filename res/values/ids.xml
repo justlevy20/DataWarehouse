@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ACTIVITY_RENAME_WORKAREA" type="id"/>
+    <item name="tvBody" type="id" />
+    <item name="tvIndex" type="id" />
+    <item name="tvRow" type="id" />
+    <item name="tvCol" type="id" />
+    <item name="ACTIVITY_EDIT_INDEX" type="id" />
+    <item name="ACTIVITY_EDIT_ROW" type="id" />
+    <item name="ACTIVITY_EDIT_COL" type="id" />
+    <item name="ACTIVITY_EDIT_BODY" type="id" />
+    <item name="ACTIVITY_ADD_DATA" type="id"/>
+    <item name="action_show_workarea" type="id" />
+    <item name="action_rename_workarea" type="id"/>
+    <item name="action_new_workarea" type="id" />
+    <item name="action_new_field" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="action_import_file" type="id" />
+    <item name="action_save_as_file" type="id" />
+    <item name="action_open_file" type="id" />
+    <item name="action_help" type="id" />
+    <item name="etOldName" type="id" />
+    <item name="etNewName"  type="id"/>
+    <item name="btnSave"  type="id"/>
+    <item name="btnCancel" type="id" />
+    <item name="action_add" type="id"/>
+    <item name="activityTypeWorkarea" type="id"/>
+    <item name="activityTypeField" type="id"/>
+    <item name="ACTIVITY_NEW_FIELD" type="id"/>
+    <item name="ACTIVITY_NEW_WORKAREA" type="id"/>
+    <item name="action_reorder_fields" type="id"/>
+    <item name="ACTIVITY_REORDER_FIELDS" type="id"/>
+</resources>
